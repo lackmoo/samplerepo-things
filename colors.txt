@@ -1,3 +1,5 @@
 blue
+bye
 red
+bye
 white
